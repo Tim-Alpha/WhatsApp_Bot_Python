@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+Web Scraping/
 
 # Distribution / packaging
 .Python
